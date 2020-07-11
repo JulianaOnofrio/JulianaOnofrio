@@ -11,7 +11,7 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 
 <br/>.📚 Technologist in Systems Analysis and Development.
 <br/>.👩‍🎓 Bachelor Degree in Law.
-<br/>.🏢 Hackathons mentor.
+<br/>.🏢 Hackathons Mentor.
 <br/>.💙 In love with Java.
 <br/>.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile methodologies.
 <br/>.⚛  Techs: Java, C#, .Net and NodeJS.

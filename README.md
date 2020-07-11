@@ -17,6 +17,7 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 <br/>.💻  Techs: Java, C#, .Net and NodeJS.
 <br/>.🌍 Languages: English, French and Spanish.
 <br/>.😄 Also Lawyer.
-<br/>.💬 Ask me about: tech, law, languages from different countries and science.
+<br/>.💬 Ask me about: tech, law, languages from different countries and foods.
+<br/>⚡ Fun Fact: I love cooking.
 
 <br/>Thank you for reading this far and don't forget to add me on LinkedIn.

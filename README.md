@@ -15,7 +15,7 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 <br/>.💙 In love with Java.
 <br/>.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile methodologies.
 <br/>.💻  Techs: Java, C#, .Net and NodeJS.
-<br/>.🌍 Languages: English, French and Spanish.
+<br/>.🌍 Languages: Portuguese, English, French and Spanish.
 <br/>.😄 Also Lawyer.
 <br/>.💬 Ask me about: tech, law, languages from different countries and foods.
 <br/>.⚡ Fun Fact: I love cooking and Disney.❄️ 

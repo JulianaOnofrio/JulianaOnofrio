@@ -18,6 +18,6 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 <br/>.🌍 Languages: English, French and Spanish.
 <br/>.😄 Also Lawyer.
 <br/>.💬 Ask me about: tech, law, languages from different countries and foods.
-<br/>.⚡ Fun Fact: I love cooking and Disney.
+<br/>.⚡ Fun Fact: I love cooking and Disney.❄️ 
 
 <br/>Thank you for reading this far and don't forget to add me on LinkedIn.

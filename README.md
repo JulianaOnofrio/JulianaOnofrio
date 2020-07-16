@@ -7,7 +7,7 @@
 ## Hi 👋 
 
 <br/>My name is Juliana, I'm a back-end developer and a passionate about science.
-I love to learn, so I dedicate myself a lot to each one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about DevOps and TDD.
+I love to learn, so I dedicate myself a lot to each one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about DevOps and Tests.
 
 <br/>.📚 Technologist in Systems Analysis and Development.
 <br/>.👩‍🎓 Bachelor Degree in Law.

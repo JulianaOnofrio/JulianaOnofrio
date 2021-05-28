@@ -14,7 +14,7 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 <br/>.🏢 Hackathons Mentor.
 <br/>.💙 In love with Java.
 <br/>.🌱 I’m currently learning more Spring Boot, TDD and Agile methodologies.
-<br/>.💻  Techs: Java and NodeJS.
+<br/>.💻  Techs: Java and Kotlin.
 <br/>.🌍 Languages: Portuguese, English, French and Spanish.
 <br/>.😄 Also Lawyer.
 <br/>.💬 Ask me about: tech, law, languages from different countries and foods.
